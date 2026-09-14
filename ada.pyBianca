@@ -1,0 +1,3 @@
+is_even(n)
+def shape(sides, angles)
+  return print("Might be a shape")
